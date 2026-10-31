@@ -9,3 +9,6 @@ User-agent: Claude-User
 User-agent: Meta-ExternalFetcher
 User-agent: MistralAI-User
 Disallow: /
+
+User-agent: *
+Allow: /
