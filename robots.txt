@@ -1,0 +1,11 @@
+User-agent: Google-Extended
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: Meta-ExternalAgent
+User-agent: MistralAI-Training
+User-agent: Google-Agent
+User-agent: ChatGPT-User
+User-agent: Claude-User
+User-agent: Meta-ExternalFetcher
+User-agent: MistralAI-User
+Disallow: /
